@@ -1,0 +1,12 @@
+{
+    "name": "@celercore/auth",
+    "version": "1.1.0",
+    "description": "",
+    "license": "MIT",
+    "repository": "",
+    "main": "index.js",
+    "keywords": [],
+    "dependencies": {
+        "axios": "^0.27.2"
+    }
+}
