@@ -1,6 +1,6 @@
 # CelerCore Auth
 
-Celer Core Payments is a library with auth.
+Celer Core Auth is a library with auth.
 
 ## Installation
 
